@@ -1,4 +1,4 @@
-# kaggle_distillaition
+# keras_distillaition
 
 This work is inspired by https://github.com/TropComplique/knowledge-distillation-keras 
 
